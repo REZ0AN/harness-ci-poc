@@ -383,6 +383,15 @@ pipeline:
 - **Community Forum**: https://community.harness.io/
 - **Harness University**: https://university.harness.io/
 - **GitHub Examples**: https://github.com/harness-community
+- **Install Delegate**:
+  - https://developer.harness.io/docs/platform/get-started/tutorials/install-delegate/
+  - https://developer.harness.io/docs/platform/delegates/install-delegates/overview/
+- **Python Run Step**: https://developer.harness.io/docs/continuous-integration/development-guides/ci-python/
+- **CI Pipeline Creation**: https://developer.harness.io/docs/continuous-integration/use-ci/prep-ci-pipeline-components/
+- **CI Run Steps**: https://developer.harness.io/docs/continuous-integration/use-ci/run-step-settings/
+- **Local Runner Infrastructure**: https://developer.harness.io/docs/continuous-integration/use-ci/set-up-build-infrastructure/define-a-docker-build-infrastructure/
+- **Email Setup**: https://developer.harness.io/docs/continuous-delivery/x-platform-cd-features/cd-steps/utilities/email-step/
+- **SMTP Setup**: https://developer.harness.io/docs/platform/notifications/add-smtp-configuration/
 
 
 ## Troubleshooting
